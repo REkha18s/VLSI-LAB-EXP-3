@@ -186,7 +186,8 @@ endmodule
 
 **2-BIT MULTIPLER**
 
-![image](https://github.com/REkha18s/VLSI-LAB-EXP-3/assets/161815097/371324b1-7db3-4bec-932e-18798c4a997b)
+![image](https://github.com/REkha18s/VLSI-LAB-EXP-3/assets/161815097/b5f0c07e-197e-4b10-ac46-9b18090c8437)
+
 **4-BIT MULTIPLXER**
 
 ![image](https://github.com/REkha18s/VLSI-LAB-EXP-3/assets/161815097/7681ccc8-fa81-4ded-bd21-7d7888c521d1)
