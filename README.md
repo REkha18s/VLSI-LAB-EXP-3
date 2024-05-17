@@ -36,8 +36,9 @@ To simulate multiplier using Vivado 2023.2.
 
  
 **VERILOG CODE**
-```
+
 2 bit multiplier
+```
 module ha(a,b,sum,carry);
 input a,b;
 output sum,carry;
@@ -71,8 +72,9 @@ endmodule
 
 
 **VERILOG CODE**
-```
+
 4 bit multiplier
+```
 module ha(a,b,sum,carry);
 input a,b;
 output sum,carry;
@@ -127,7 +129,7 @@ fa r72(w[13],fs[3],hc[3],p[4],fc[5]);
 fa r73(w[14],fs[4],fc[5],p[5],fc[6]);
 fa r74(w[15],fc[4],fc[6],p[6],p[7]);
 endmodule
-
+```
 **OUTPUT WAVEFORM**
 
 ![image](https://github.com/REkha18s/VLSI-LAB-EXP-3/assets/161815097/f72a383d-579e-410e-9920-d3f2a3f751d7)
